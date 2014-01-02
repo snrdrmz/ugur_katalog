@@ -66,11 +66,11 @@
     }
 .icon1
 {
-    background-color: #e8913d !important;
+    	background-image:url(../images/icon.gif) !important;
 }
 .icon2
 {
-    background-color: #3da7e8 !important;
+    background-image:url(../images/icon.gif) !important;
 }
 .icon3
 {
@@ -97,7 +97,7 @@
 .icon8
 {
  
-    background-color: #001fe2 !important;
+   background-image:url(../images/icon.gif) !important;
 	 
 }
 .dev
