@@ -65,6 +65,7 @@
         position: absolute;
         width: 100%;
         text-align: center;
+		 margin:0px;
         bottom: 0;
         padding-bottom: .5em;
     }
@@ -90,7 +91,7 @@
 }
 .icon6
 {
-    background-color: #26caff !important;
+   opacity: 1;
 }
 .icon7
 {
