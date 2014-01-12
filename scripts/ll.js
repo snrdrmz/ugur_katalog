@@ -1,5 +1,5 @@
 var slides = {
 	desc: "Katalog",
 	root: "images/led_lambalar/",
-	images: ["02.png","03.png","04.png","05.png","Page_06.png","Page_07.png","Page_08.png","Page_09.png","Page_10.png","Page_11.png","Page_12.png","Page_13.png","Page_14.png","Page_15.png","Page_16.png","Page_17.png","Page_18.png","Page_19.png","Page_20.png","Page_21.png","Page_22.png","Page_23.png","Page_24.png","Page_25.png","Page_26.png","Page_27.png","Page_28.png","Page_29.png","Page_30.png","Page_31.png","Page_32.png","Page_33.png","Page_34.png","Page_35.png","Page_36.png","Page_37.png","Page_38.png","Page_39.png","Page_40.png","Page_41.png","Page_42.png","Page_43.png","Page_44.png"]
+	images: ["02.png","03.png","04.png","05.png","06.png","07.png","08.png","09.png","10.png","11.png","12.png","13.png","14.png","15.png","16.png","17.png","18.png","19.png","20.png","21.png","22.png","23.png","24.png","25.png","26.png","27.png","28.png","29.png","30.png","31.png","32.png","33.png","34.png","35.png","36.png","37.png","38.png","39.png","40.png","41.png","42.png","43.png","44.png"]
 };
