@@ -1,5 +1,5 @@
 var slides = {
 	desc: "Katalog",
 	root: "images/led_lambalar/",
-	images: ["002.png","003.png","004.png","005.png","06.png","07.png","08.png","09.png","10.png","11.png","12.png","13.png","14.png","15.png","16.png","17.png","18.png","19.png","20.png","21.png","22.png","23.png","24.png","25.png","26.png","27.png","28.png","29.png","30.png","31.png","32.png","33.png","34.png","35.png","36.png","37.png","38.png","39.png","40.png","41.png","42.png","43.png","44.png"]
+	images: ["002.png","003.png","004.png","005.png","006.png","007.png","008.png","009.png","010.png","011.png","012.png","013.png","014.png","015.png","016.png","017.png","018.png","019.png","020.png","021.png","022.png","023.png","024.png","025.png","026.png","027.png","028.png","029.png","030.png","031.png","032.png","033.png","034.png","035.png","036.png","037.png","038.png","039.png","040.png","041.png","042.png","043.png","044.png"]
 };
