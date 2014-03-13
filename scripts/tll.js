@@ -1,5 +1,5 @@
 var slides = {
-	desc: "Hakkımızda",
+	desc: "Hakkimizda",
 	root: "images/Tekfen_Serisi _Led_Lambalar/",
-	images: ["012.png"]
+	images: ["012.png", ]
 };

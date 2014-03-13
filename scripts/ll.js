@@ -1,5 +1,5 @@
 var slides = {
-	desc: "Katalog",
+	desc: "Cata Katalog",
 	root: "images/led_lambalar/",
-	images: ["002.Png", "003.Png", "004.Png", "005.Png", "006.Png", "007.Png", "008.Png", "009.Png", "010.Png", "011.Png", "012.Png", "013.Png", "014.Png", "015.Png", "016.Png", "017.Png", "018.Png", "019.Png", "020.Png", "021.Png", "022.Png", "023.Png", "024.Png", "025.Png", "026.Png", "027.Png", "028.Png", "029.Png", "030.Png", "031.Png", "032.Png", "033.Png", "034.Png", "035.Png", "036.Png", "037.Png", "038.Png", "039.Png", "040.Png", "041.Png", "042.Png", "043.Png", "044.Png"]
+	images: ["002.png", "003.png", "004.png", "005.png", "006.png", "007.png", "008.png", "009.png", "010.png", "011.png", "011.png", "012.png", "013.png", "014.png", "015.png", "016.png", "017.png", "018.png", "019.png", "020.png", "021.png", "022.png", "023.png", "024.png", "025.png", "026.png", "027.png", "028.png", "029.png", "030.png", "031.png", "032.png", "033.png", "034.png", "035.png", "036.png", "037.png", "038.png", "039.png", "040.png", "041.png", "042.png", "043.png"]
 };
